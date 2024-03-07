@@ -1,6 +1,4 @@
 # Projeto Android
-</br>
-Site responsivo.
 <h3><a href="https://felipecrus.github.io/porjeto-android/" target="_blank"> Site Implantado </a></h3>
 <h2> Ferramentas utilizadas:</h2>
 </br>
